@@ -4,21 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.verlonar.hw212.service.CalculatorService;
 
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_FIRST_DOUBLE;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_SECOND_DOUBLE;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_FIRST_DOUBLE;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_SECOND_DOUBLE;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.ARGUMENT_FOR_EXCEPTION_CHECK;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_CORRECT_PLUS_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_CORRECT_PLUS_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_CORRECT_MINUS_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_CORRECT_MINUS_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_CORRECT_MULTIPLY_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_CORRECT_MULTIPLY_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.FIRST_GROUP_CORRECT_DIVINE_RESULT;
-import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.SECOND_GROUP_CORRECT_DIVINE_RESULT;
-
-
+import static ru.verlonar.hw212.constants.CalculatorServiceImplTestConstants.*;
 
 public class CalculatorServiceImplTest {
 
